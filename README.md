@@ -8,6 +8,6 @@ In this world of the 21st century where we have various different types of heavy
 
 We used two oops language to create our project -
 
-Cpp to create the *"**run.cpp** launcher file"* : which when compiled and executed will run the exe files of the two games. 
-CSharp to create the console/terminal based games : **2048 and minesweeper** 
+- Cpp to create the *"**run.cpp** launcher file"* : which when compiled and executed will run the exe files of the two games. 
+- CSharp to create the console/terminal based games : **2048 and minesweeper** 
 
