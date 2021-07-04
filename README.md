@@ -4,6 +4,8 @@ In this world of the 21st century where we have various different types of heavy
 
 ### HacktheConsole is a gaming project which includes a launcher and 2 games - “2048 and Minesweeper” both of which run on terminal. 
 
+---
+
 ## Technologies/Language Used :
 
 We used two oops language to create our project -
@@ -11,3 +13,18 @@ We used two oops language to create our project -
 - Cpp to create the *"**run.cpp** launcher file"* : which when compiled and executed will run the exe files of the two games. 
 - CSharp to create the console/terminal based games : **2048 and minesweeper** 
 
+--- 
+
+## How to run the project : 
+
+> - Fork and Clone this repository or Download it via zip 
+> - Open the [run.cpp file](https://github.com/Dhruv-194/HacktheConsole/blob/master/Source/run.cpp) in any of your code editor. 
+> - Then compile and execute the file. ( In most cases the project should run and you should be able to play the game ) 
+
+### If any problem occurs : 
+
+> If the project shows error that must have been because of the wrong location of the downloaded exe files. 
+>  - Go to [line 27](https://github.com/Dhruv-194/HacktheConsole/blob/5ce54cab3c1dffb4532ffd73e6cd33d1834343d3/Source/run.cpp#L27) of the run.cpp file and put the exact local file location of [Console2048.exe](https://github.com/Dhruv-194/HacktheConsole/blob/master/Game/2048/Console2048.exe)
+>  - Similarily go to [line 32](https://github.com/Dhruv-194/HacktheConsole/blob/5ce54cab3c1dffb4532ffd73e6cd33d1834343d3/Source/run.cpp#L32) of the run.cpp file and put the exact local file location of [Minesweeper.exe](https://github.com/Dhruv-194/HacktheConsole/blob/master/Game/Minesweeper/ConsoleMinesweep.exe)
+
+--- 
