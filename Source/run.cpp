@@ -24,12 +24,12 @@ int main()
     case 1:
        {
         cout<<"You are now playing Flappy Bird"<<endl;
-        BOOL bSuccess = CreateProcess(TEXT("C:\\Users\\hp\\Downloads\\REPO\\REPO\\Game\\2048\\Console2048.exe"),NULL,NULL,NULL,FALSE,NULL,NULL,NULL, &startInfo,&processInfo);
+        BOOL bSuccess = CreateProcess(TEXT("../Game/2048/Console2048.exe"),NULL,NULL,NULL,FALSE,NULL,NULL,NULL, &startInfo,&processInfo);
         break;
        }
     case 2:
         cout<<"You are now playing car race"<<endl;
-        BOOL bSuccesss = CreateProcess(TEXT("C:\\Users\\hp\\Downloads\\REPO\\REPO\\Game\\Minesweeper\\ConsoleMinesweep.exe"),NULL,NULL,NULL,FALSE,NULL,NULL,NULL, &startInfo2,&processInfo2);
+        BOOL bSuccesss = CreateProcess(TEXT("../Game/Minesweeper/ConsoleMinesweep.exe"),NULL,NULL,NULL,FALSE,NULL,NULL,NULL, &startInfo2,&processInfo2);
         break;
 
     }
