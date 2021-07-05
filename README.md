@@ -28,3 +28,10 @@ We used two oops language to create our project -
 >  - Similarily go to [line 32](https://github.com/Dhruv-194/HacktheConsole/blob/5ce54cab3c1dffb4532ffd73e6cd33d1834343d3/Source/run.cpp#L32) of the run.cpp file and put the exact local file location of [Minesweeper.exe](https://github.com/Dhruv-194/HacktheConsole/blob/master/Game/Minesweeper/ConsoleMinesweep.exe)
 
 --- 
+
+## Contributors :
+
+- [Dhruv Mehta](https://github.com/Dhruv-194)
+- [Kushagra](https://github.com/kushagra10025)
+
+---
