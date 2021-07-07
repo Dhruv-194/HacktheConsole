@@ -59,4 +59,7 @@ We used two oops language to create our project -
 - [Dhruv Mehta](https://github.com/Dhruv-194)
 - [Kushagra](https://github.com/kushagra10025)
 
+| [<img alt="Dhruv-194" src="https://avatars.githubusercontent.com/Dhruv-194" width="115"><br><sub>Dhruv Mehta</sub>](https://github.com/Dhruv-194) | [<img alt="kushagra10025" src="https://avatars.githubusercontent.com/kushagra10025" width="115"><br><sub>Kushagra</sub>](https://github.com/kushagra10025) |
+| :---: |:---: |
+
 ---
