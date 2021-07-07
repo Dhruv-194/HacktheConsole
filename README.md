@@ -1,6 +1,6 @@
 # HacktheConsole 
 
-> ##  Official submission to the [Hack the Terminal Hackathon](https://hacktheterminal.devpost.com/) organised by [Geeks for Geeks VIT-B](https://geeksforgeeksvitb.study/#/)
+> ###  Official winning submission to the [Hack the Terminal Hackathon](https://hacktheterminal.devpost.com/) organised by [Geeks for Geeks VIT-B](https://geeksforgeeksvitb.study/#/)
 
 ## About the Project :
 
