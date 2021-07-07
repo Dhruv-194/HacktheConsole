@@ -1,6 +1,9 @@
 # HacktheConsole 
 
 > ###  Official winning submission to the [Hack the Terminal Hackathon](https://hacktheterminal.devpost.com/) organised by [Geeks for Geeks VIT-B](https://geeksforgeeksvitb.study/#/)
+<p align="center">
+<img src="https://github.com/Dhruv-194/HacktheConsole/blob/master/Screenshots/Screenshot%20(201).png" alt="drawing" width="700"/>
+</p>
 
 ## About the Project :
 
