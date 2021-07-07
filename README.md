@@ -31,6 +31,12 @@ We used two oops language to create our project -
 
 ### Domain we have worked on - GAMING
 
+## Youtube Video link : 
+[Hack the Console](https://youtu.be/wanYqkiD0Ow)
+
+## Devpost link : 
+[Hack the Console on Devpost](https://devpost.com/software/hacktheconsole)
+
 
 
 ## Contributors :
