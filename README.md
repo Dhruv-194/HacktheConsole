@@ -1,8 +1,14 @@
-# HacktheConsole
+# HacktheConsole 
+
+> ##  Official submission to the [Hack the Terminal Hackathon](https://hacktheterminal.devpost.com/) organised by [Geeks for Geeks VIT-B](https://geeksforgeeksvitb.study/#/)
+
+## About the Project :
 
 In this world of the 21st century where we have various different types of heavy graphic based games be it single player or multiplayer, at times there is a sense of repetition which can make our experience boring and dull. At this time one needs a change and what better than playing some original basic 2048 or Minesweeper directly available on the terminal. 
 
 ### HacktheConsole is a gaming project which includes a launcher and 2 games - “2048 and Minesweeper” both of which run on terminal. 
+
+### Domain we have worked on - GAMING
 
 ---
 
@@ -29,7 +35,6 @@ We used two oops language to create our project -
 
 --- 
 
-### Domain we have worked on - GAMING
 
 ## Youtube Video link : 
 [Hack the Console](https://youtu.be/wanYqkiD0Ow)
