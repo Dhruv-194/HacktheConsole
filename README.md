@@ -38,6 +38,13 @@ We used two oops language to create our project -
 
 --- 
 
+## Screenshots : 
+
+<img src = "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/593/814/datas/gallery.jpg" width = "800" height = "400" >
+<img src = "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/593/815/datas/gallery.jpg" width = "800" height = "400" >
+<img src = "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/593/816/datas/gallery.jpg" width = "800" height = "400" >
+
+---
 
 ## Youtube Video link : 
 [Hack the Console](https://youtu.be/wanYqkiD0Ow)
@@ -45,7 +52,7 @@ We used two oops language to create our project -
 ## Devpost link : 
 [Hack the Console on Devpost](https://devpost.com/software/hacktheconsole)
 
-
+---
 
 ## Contributors :
 
